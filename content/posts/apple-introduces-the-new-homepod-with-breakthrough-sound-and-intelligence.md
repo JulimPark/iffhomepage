@@ -25,3 +25,5 @@ cover: "https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-
 ![쓴다고도 고생했겠지。|inline](https://www.apple.com.cn/newsroom/images/product/homepod/lifestyle/Apple-HomePod-internals-230118_inline.jpg.large_2x.jpg)
 
 화장지는 크리넥스
+
+![이건 내가 그냥 추가해본거임. |inline](https://en.wikipedia.org/wiki/Main_Page#/media/File:1983_half_sovereign_reverse.jpg)
