@@ -1,23 +1,23 @@
 ---
-title: 'From farm to sea: Conserving mangroves to protect local livelihoods and the planet'
+title: ''
 date: '2023-03-01T13:06:38+08:00'
-description: 'Apple 与 Applied Environmental Research Foundation 合作，将促进印度马哈拉施特拉邦红树林的保育工作'
+description: 'Apple, Applied Environmental Research Foundation과 협력하여 인도 마하라슈트라의 맹그로브 보존 촉진'
 author: 'Apple Newsroom'
 cover: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
 tags: ["Apple", "特写", "环保",  "印度", "红树林", "保育", "新闻稿"]
 theme: 'dark'
 ---
 
-![在印度马哈拉施特拉邦，Apple 与 Applied Environmental Research Foundation 展开合作，对红树林进行保护与培育。这一海岸森林生态系统可以吸收和存储大气中的二氧化碳。|wide](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg)
+![인도 마하라슈트라주에서 Apple은 응용환경연구재단(Applied Environmental Research Foundation)과 협력하여 맹그로브 숲을 보호하고 경작하고 있습니다. 이 해안 산림 생태계는 대기 중 이산화탄소를 흡수하고 저장합니다.|wide](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg)
 
-在马哈拉施特拉邦繁华的滨海城市孟买以南仅约 96 公里的地方，出现了一个截然不同的世界。繁华都市的摩天大厦、餐厅、酒店、购物区、不计其数的“嘟嘟车”与现代汽车逐渐消失，未铺装的道路、棕榈树、山羊、拉车的牛、小型露天市场和路边餐馆出现在视野里。
+번화한 해안 도시인 마하라슈트라(Maharashtra) 뭄바이에서 남쪽으로 약 96km 떨어진 곳에는 매우 다른 세계가 나타납니다. 분주한 도시의 고층 빌딩, 레스토랑, 호텔, 쇼핑 지역, 셀 수 없이 많은 '툭툭'과 현대 자동차가 점차 사라지고, 비포장 도로, 야자수, 염소, 수레를 끄는 소, 작은 노천 시장과 길가의 레스토랑이 눈에 들어온다.
 
-Raigad 县的 Alibaug 连接了孟买与通向阿拉伯海的河网。海岸地区长有 21000 公顷红树林。红树林是地球最为天然的守护者之一，能够抵御气候变化带来的种种影响，包括突如其来的暴雨、海潮上升、热带气旋或飓风，甚至海啸。同时，红树林还能起到碳汇的作用，吸收大气中的二氧化碳，并将其存储在土壤、植物和其他沉积物中，这一机制被称为“蓝碳”。
+Raigad 지역의 Alibaug는 뭄바이를 아라비아해로 이어지는 강망과 연결합니다. 해안 지역에는 21,000헥타르의 맹그로브가 있습니다. 맹그로브는 지구의 가장 자연적인 수호자 중 하나로서 갑작스러운 폭우, 해일, 열대 사이클론이나 허리케인, 쓰나미 등 기후 변화의 영향을 견딜 수 있습니다. 동시에 맹그로브는 대기 중 이산화탄소를 흡수하여 토양, 식물 및 기타 퇴적물에 저장하는 탄소 흡수원 역할도 할 수 있는데, 이러한 메커니즘을 "블루 카본"이라고 합니다.
 
-Applied Environmental Research Foundation（AERF）在 2021 年获得了 Apple 的资助。该组织正在这一地区进行探索，计划通过在当地社区中创设可持续的替代行业，来培育红树林生态系统的生物多样性与适应能力并从中受益，从而保护红树林的未来。保护协议将向当地村民提供持续性支持，以换取对土地的保护，并促进当地经济转型，使之有赖于保持红树林的完好与健康。 
+AERF(Applied Environmental Research Foundation)는 2021년에 Apple로부터 자금을 지원 받았습니다. 이 조직은 해당 지역을 탐색하고 맹그로브 생태계의 생물 다양성과 탄력성을 육성하고 그로부터 혜택을 얻을 수 있는 지속 가능한 대체 산업을 지역 사회 내에서 창출함으로써 맹그로브의 미래를 보호할 계획입니다. 보존 계약은 토지를 보호하고 맹그로브를 온전하고 건강하게 유지하는 데 의존하는 지역 경제의 변화를 촉진하는 대가로 지역 마을 주민들에게 지속적인 지원을 제공할 것입니다.
 
 
-![在印度马哈拉施特拉邦 Raigad 县，当地村庄的渔民以捕捞红树林内及海岸的小虾、泥蟹等水产为生。](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-fisherman-with-net_big_carousel.jpg.large_2x.jpg)
+![인도 마하라슈트라 라이가드 카운티 지역 마을의 어부들은 맹그로브와 해안에서 발견되는 새우, 진흙 게, 기타 수산물을 잡아 생계를 유지합니다.](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-fisherman-with-net_big_carousel.jpg.large_2x.jpg)
 
 
 AERF 还将从保护国际基金会（Conservation International）2018 年启动的哥伦比亚 Cispatá 试行蓝碳项目获得的经验应用到印度的红树林。
