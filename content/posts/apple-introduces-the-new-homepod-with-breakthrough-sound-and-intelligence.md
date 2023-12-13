@@ -26,4 +26,4 @@ cover: "https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-
 
 화장지는 크리넥스
 
-![이건 내가 그냥 추가해본거임. |inline](https://en.wikipedia.org/wiki/Main_Page#/media/File:1983_half_sovereign_reverse.jpg)
+![이건 내가 그냥 추가해본거임. |inline](https://uctmfeyuzyigljzvslth.supabase.co/storage/v1/object/sign/123123/123.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiIxMjMxMjMvMTIzLnBuZyIsImlhdCI6MTcwMjQ3NzMzMywiZXhwIjoxNzM0MDEzMzMzfQ.MlS9k-nNUMYHKy5vKqXGQH_qEiPLaB5lYQB2cefuAhM&t=2023-12-13T14%3A22%3A13.791Z)
