@@ -2,3 +2,9 @@ baseURL = 'https://julimpark.github.io/iffhomepage/'
 languageCode = 'en-us'
 title = '필요와충분✚'
 theme = 'itheme'
+
+
+[params]
+  ShowCopyRight = false
+  ShowMore = true
+  ShowRSS = false
