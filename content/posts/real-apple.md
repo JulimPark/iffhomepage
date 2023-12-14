@@ -4,7 +4,7 @@ date: '2023-03-01T13:06:38+08:00'
 description: 'Apple, Applied Environmental Research Foundation과 협력하여 인도 마하라슈트라의 맹그로브 보존 촉진'
 author: 'Apple Newsroom'
 cover: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
-tags: ["Apple", "特写", "环保",  "印度", "红树林", "保育", "新闻稿"]
+tags: ["진짜사과", "한자", "모름",  "몰라", "홍두께?", "건빵?", "신구라?"]
 theme: 'dark'
 ---
 
