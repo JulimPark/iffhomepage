@@ -7,7 +7,7 @@ cover: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-
 tags: ["진짜사과", "한자", "모름",  "몰라", "홍두께?", "건빵?", "신구라?"]
 theme: 'dark'
 ---
-[인도곰팡이](https://github.com/JulimPark/iffhomepage/blob/main/static/test.png)
+[인도곰팡이|wide](https://github.com/JulimPark/iffhomepage/blob/main/static/test.png.large_2x.png)
 
 ![인도 마하라슈트라주에서 Apple은 응용환경연구재단(Applied Environmental Research Foundation)과 협력하여 맹그로브 숲을 보호하고 경작하고 있습니다. 이 해안 산림 생태계는 대기 중 이산화탄소를 흡수하고 저장합니다.|wide](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg)
 
