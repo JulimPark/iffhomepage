@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on 필요와충분✚</title>
+    <link>https://julimpark.github.io/iffhomepage/tags/demo/</link>
+    <description>Recent content in Demo on 필요와충분✚</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Mar 2022 15:00:53 +0800</lastBuildDate>
+    <atom:link href="https://julimpark.github.io/iffhomepage/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iTheme - 一个果味十足的Hugo主题</title>
+      <link>https://julimpark.github.io/iffhomepage/posts/hello-world-cn/</link>
+      <pubDate>Fri, 25 Mar 2022 15:00:53 +0800</pubDate>
+      <guid>https://julimpark.github.io/iffhomepage/posts/hello-world-cn/</guid>
+      <description>如果喜欢这个主题, 请给我点赞！&#xA;介绍 English Readme&#xA;一个苹果味十足的Hugo主题，移植自astro-air-blog&#xA;预览 测试站点&#xA;快速开始 在开始之前，请先安装好Hugo。&#xA;使用测试站点快速开始 这是测试站点的仓库&#xA;git clone https://github.com/floyd-li/itheme-demo-site.git my-site cd ./my-site &amp;amp;&amp;amp; hugo -server -D 然后，就可以访问http://localhost:1313查看效果啦～&#xA;作为一个已有项目的主题 git submodule add https://github.com/floyd-li/hugo-theme-itheme.git themes/hugo-theme-itheme echo &amp;#34;theme = &amp;#39;hugo-theme-itheme&amp;#39;&amp;#34; &amp;gt;&amp;gt; config.toml 可能需要在config.toml文件中添加一些配置，请参考后文的站点配置&#xA;截屏 screenshot 特性 支持文章明``暗两种风格 文中配置支持三种不同的大小 多语言支持（当前仅支持了中文和英文，欢迎提交其他语言的翻译） 配置 站点配置 defaultContentLanguage = &amp;#34;en&amp;#34; # 默认语言，当前仅支持英文(en)和简体中文(zh-hans)，可以查看&amp;#39;i18n&amp;#39;文件夹 [params] defaultCover = &amp;#39;https://example.com/cover.jpg&amp;#39; # 文章未设置封面时的默认封面图 email = &amp;#39;floyd.li@outlook.com&amp;#39; # 页脚显示的邮件地址the email address display in the footer [[params.socialMedia]] # 页脚显示的自定义的媒体链接，可添加多个 name = &amp;#39;Github&amp;#39; url = &amp;#39;https://github.</description>
+    </item>
+  </channel>
+</rss>
