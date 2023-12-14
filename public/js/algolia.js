@@ -1,7 +1,7 @@
 (() => {
   // ns-params:@params
   var baseURL = "https://julimpark.github.io/iffhomepage/";
-  var params = { showcopyright: false, showmore: true, showrss: true };
+  var params = { showcopyright: false, showmore: true, showrss: false };
 
   // <stdin>
   var { appid, appkey, searchindex: indexName, enabled } = params.algolia;

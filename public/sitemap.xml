@@ -2,10 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://julimpark.github.io/iffhomepage/posts/real-apple/</loc>
-    <lastmod>2023-03-01T13:06:38+08:00</lastmod>
+    <loc>https://julimpark.github.io/iffhomepage/quote/first/</loc>
+    <lastmod>2023-12-15T02:16:37+09:00</lastmod>
+  </url><url>
+    <loc>https://julimpark.github.io/iffhomepage/quote/</loc>
+    <lastmod>2023-12-15T02:16:37+09:00</lastmod>
+  </url><url>
+    <loc>https://julimpark.github.io/iffhomepage/</loc>
+    <lastmod>2023-12-15T02:16:37+09:00</lastmod>
+  </url><url>
+    <loc>https://julimpark.github.io/iffhomepage/video/</loc>
+    <lastmod>2023-12-15T02:12:45+09:00</lastmod>
+  </url><url>
+    <loc>https://julimpark.github.io/iffhomepage/video/videos/</loc>
+    <lastmod>2023-12-15T02:12:45+09:00</lastmod>
+  </url><url>
+    <loc>https://julimpark.github.io/iffhomepage/about/</loc>
+    <lastmod>2023-12-15T02:05:37+09:00</lastmod>
   </url><url>
     <loc>https://julimpark.github.io/iffhomepage/posts/</loc>
+    <lastmod>2023-12-15T01:46:13+09:00</lastmod>
+  </url><url>
+    <loc>https://julimpark.github.io/iffhomepage/posts/my-test/test/</loc>
+    <lastmod>2023-12-15T01:46:13+09:00</lastmod>
+  </url><url>
+    <loc>https://julimpark.github.io/iffhomepage/posts/real-apple/</loc>
     <lastmod>2023-03-01T13:06:38+08:00</lastmod>
   </url><url>
     <loc>https://julimpark.github.io/iffhomepage/tags/</loc>
@@ -24,9 +45,6 @@
     <lastmod>2023-03-01T13:06:38+08:00</lastmod>
   </url><url>
     <loc>https://julimpark.github.io/iffhomepage/tags/%EC%A7%84%EC%A7%9C%EC%82%AC%EA%B3%BC/</loc>
-    <lastmod>2023-03-01T13:06:38+08:00</lastmod>
-  </url><url>
-    <loc>https://julimpark.github.io/iffhomepage/</loc>
     <lastmod>2023-03-01T13:06:38+08:00</lastmod>
   </url><url>
     <loc>https://julimpark.github.io/iffhomepage/tags/%ED%95%9C%EC%9E%90/</loc>
