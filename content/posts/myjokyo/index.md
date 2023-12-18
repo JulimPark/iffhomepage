@@ -3,7 +3,7 @@ title: "수학실력 심층분석도구, 마이조교"
 date: 2023-12-15T21:45:46+09:00
 description: "인공지능 빅데이터 기반 수학실력 심층분석도구, 마이조교"
 author: "James"
-cover: "images1.png"
+cover: "221.gif"
 tags: ["눈에 보이는 수준향상",'칼퇴근','완벽한 관리','빈틈없는 실력만들기']
 theme: "light"
 ---
