@@ -1,12 +1,33 @@
-{{ with resources.Get "js/main.js" }}
-  {{ if hugo.IsDevelopment }}
-    {{ with . | js.Build }}
-      <script src="{{ .RelPermalink }}"></script>
-    {{ end }}
-  {{ else }}
-    {{ $opts := dict "minify" true }}
-    {{ with . | js.Build $opts | fingerprint }}
-      <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
-    {{ end }}
-  {{ end }}
+<style>
+  .reload_button {
+    height:30px;
+    margin:10px;
+    background-color: lightgray;
+  }
+</style>
+
+<div style="padding:10px; border-style:solid; background-color:#fceeee;">
+  <span id="golden" ></span>
+  <button class="reload_button" onclick="reload()"> 다른 명언 보기 </button>
+</div>
+
+<script>
+{{ $goldens := readFile "golden.txt" }}
+{{ $strs := split $goldens "\n" }}
+
+var goldens = [
+{{ range $str := $strs }}
+{{ printf "%s" $str }},
 {{ end }}
+];
+function getRandomInt(max) {
+  return Math.floor(Math.random() * Math.floor(max));
+}
+function reload() {
+  var idx = getRandomInt(goldens.length);
+  var div_golden = document.getElementById('golden');
+  div_golden.innerHTML = goldens[idx];
+}
+reload()
+
+</script>
