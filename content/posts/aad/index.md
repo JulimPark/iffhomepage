@@ -17,9 +17,8 @@ $$\frac{1}{2}$$
 $$\frac{1}{2}$$
 
 {{<js_wc>}}
-{{<ms>}}
-{{<test>}}
 
+{{<jj>}}
 
 
 {{<youtube TYKqgGK7vow>}}
